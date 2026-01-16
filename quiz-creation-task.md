@@ -15,4 +15,3 @@ Kenji: “Sure. That way, if there is a candy that is sold out, we can immediate
 Emi: “Also, it would be nice to check the list of ingredients at the end of the day so that you can add to your shopping list what you might run out of. That should make the next day's preparations go a lot smoother.”
 
 Kenji: “Yeah, let's go with that! Our fruit candy shop is going to be a huge success!”
----
