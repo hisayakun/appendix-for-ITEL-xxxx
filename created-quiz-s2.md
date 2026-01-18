@@ -33,6 +33,6 @@ def use_kudamono(kudamono, amount):
 # function to add new fruit
 def add_kudamono():
     new_kudamono = input("Please enter the name of the fruit to be added: ")
-    new_stock = int(input("Please enter the quantity of fruit to be added.: "))
+    new_stock = int(input("Please enter the quantity of fruit to be added: "))
     kudamono_dict[new_kudamono] = new_stock
 ```
